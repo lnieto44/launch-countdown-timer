@@ -2198,10 +2198,10 @@
   dependencies:
     "yallist" "^4.0.0"
 
-"luxon@^1.28.0":
-  "integrity" "sha512-TfTiyvZhwBYM/7QdAVDh+7dBTBA29v4ik0Ce9zda3Mnf8on1S5KJI8P2jKFZ8+5C0jhmr0KwJEO/Wdpm0VeWJQ=="
-  "resolved" "https://registry.npmjs.org/luxon/-/luxon-1.28.0.tgz"
-  "version" "1.28.0"
+"luxon@^1.25.0":
+  "integrity" "sha512-hEgLurSH8kQRjY6i4YLey+mcKVAWXbDNlZRmM6AgWDJ1cY3atl8Ztf5wEY7VBReFbmGnwQPz7KYJblL8B2k0jQ=="
+  "resolved" "https://registry.npmjs.org/luxon/-/luxon-1.25.0.tgz"
+  "version" "1.25.0"
 
 "make-dir@^2.0.0":
   "integrity" "sha512-LS9X+dc8KLxXCb8dni79fLIIUA5VyZoyjSMCwTluaXA0o27cCK0bhXkpgw+sTXVpPy/lSO57ilRixqk0vDmtRA=="
